@@ -1,0 +1,9 @@
+.buttonstyle{
+    height:25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    flex:1
+
+}
